@@ -33,7 +33,10 @@ const newsModel = require('../models/newsModel');
  *          example:
  *              title: Donald Trump candidato a la presidencia de EEUU
  *              url: http://linkgenericodeportalweb.com
- *              source: portalweb/periodicogenerico Ejemplo: NewYorkTimes
+ *             source: 
+                portalweb: periodicogenerico 
+                ejemplo: NewYorkTimes
+
  *              newCategory: Politica/País
  *              status: TRUE
  * 
